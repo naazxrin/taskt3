@@ -1,0 +1,180 @@
+#mesho{
+    font-size: 25px;
+    color: #000;
+}
+#user{
+    border-radius: 50%;
+}
+.fa-coins{
+    color: yellow;
+}
+.fa-heart{
+    color: red;
+}
+.fa-bell{
+    color: yellow;
+}
+.fa-cart-shopping{
+    color: darkorchid;
+}
+#maha{
+    margin: 30px;
+    margin-left: 300px;
+}
+#in{
+margin-top: 20px;
+margin-left: 300px;
+}
+#sub{
+    color: white;
+    background-color: blue;
+}
+.fa-solid:hover{
+    cursor: pointer;
+    transform: translateY(5px)
+}
+#sub:hover{
+    background-color: white;
+    color: brown;
+}
+.im{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.dd{
+    font-size: 15px;
+    font-weight: 800;
+}
+.dress{
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+}
+.im:hover{
+    cursor: pointer;
+    transform: translateY(5px)
+}
+dd:hover{
+    font-size: 18px;
+    color: orange;
+
+}
+#p1{
+    color: black;
+}
+.wear{
+    font-size: 40px;
+    font-family: "Baskervville SC", serif;
+    font-weight: 900;
+    margin: 40px;
+    text-align: center;
+    color: orange;
+
+}
+.wear:hover{
+    font-size: 45px;
+    color: brown;
+    
+}
+.spa{
+    border: solid;
+    width: 50px;
+    height: 30px;
+    border-color: none;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    margin:30px ;
+}
+#de1{
+    color: black;
+}
+.cut{
+    text-decoration: line-through;
+    color: green;
+}
+.off{
+    color: orange;
+}
+.sal{
+    margin-left: 50px;
+    display: flex;
+}
+.sal1{
+    display: flex;
+}
+.others{
+    display: flex;
+}
+footer {
+    background: gainsboro;
+    color: #fff;
+    padding: 40px 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.footer-section h4 {
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+.loh{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 20px;
+}
+.fa-brands:hover{
+    cursor: pointer;
+    transform: translateY(5px);
+    font-size: 35px;
+    color: black;
+
+}
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+    color: black;
+}
+#res
+{
+    background: white;
+    border-radius: 5px;
+}
+#res:hover{
+    cursor: pointer;
+    background-color: black;
+}
+.ff{
+    font-size: 20px;
+}
+.foo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    transform: translateY(5px);
+}
